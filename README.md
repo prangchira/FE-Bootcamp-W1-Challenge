@@ -1,5 +1,5 @@
 # FE-Bootcamp-W1-Challenge
-FE Bootcamp W1 Challenge
+
 In this project, a landing page of a website is being refactored to improve accessability to ensure that people with disabilities can access a website using assistive technologies.
 
 
