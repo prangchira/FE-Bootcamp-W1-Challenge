@@ -10,6 +10,9 @@ The accessibility standards requirements are as follow:
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
+## Link to deployed code
+https://prangchira.github.io/FE-Bootcamp-W1-Challenge/
+
 ## Credit
 I would like thank TA Samuel Cordova (https://github.com/SamuelDuartedeCordova), for his guidance and help on this project. 
 
