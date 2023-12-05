@@ -10,7 +10,8 @@ The accessibility standards requirements are as follow:
 * Heading attributes fall in sequential order
 * Title elements contain a concise, descriptive title
 
-
+## Credit
+I would like thank TA Samuel Cordova (https://github.com/SamuelDuartedeCordova), for his guidance and help on this project. 
 
 ## Licenses
 MIT License
